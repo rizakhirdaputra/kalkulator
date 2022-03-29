@@ -8,7 +8,7 @@
         margin: 0.2em;
         border: none;
         cursor: pointer;
-       
+        background: #FF9933;
       }
       #viewer {
         width: 25.7em;
